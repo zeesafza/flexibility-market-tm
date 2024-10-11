@@ -1,3 +1,3 @@
-# flexibility-market-tm
+# FM-threat-modelling
 
-This repository contains the different securiCAD model views for the flexibility market model and the resulting attack graphs.
+This repo contains the different securiCAD model views for the flexibility market model and the resulting attack graphs.
